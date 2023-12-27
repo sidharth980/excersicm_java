@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-12-20T09:25:45" hostname="LEGION5" time="0.634">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs840WithFactorsLessThanOrEqualTo370" classname="PythagoreanTripletTest" time="0.057"/>
+  <testcase name="tripletsWhoseSumIs1000" classname="PythagoreanTripletTest" time="0.003"/>
+  <testcase name="tripletsWhoseSumIs1001" classname="PythagoreanTripletTest" time="0.002"/>
+  <testcase name="tripletsWhoseSumIs108" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs840" classname="PythagoreanTripletTest" time="0.003"/>
+  <testcase name="tripletsWhoseSumIs12" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs90" classname="PythagoreanTripletTest" time="0.0"/>
+  <testcase name="tripletsWhoseSumIs30000WithFactorsLessThanOrEqualTo12500" classname="PythagoreanTripletTest" time="0.065"/>
+  <testcase name="tripletsWhoseSumIs30000" classname="PythagoreanTripletTest" time="0.499"/>
+  <system-out><![CDATA[120 350 370
+140 336 364
+168 315 357
+210 280 350
+240 252 348
+200 375 425
+27 36 45
+40 399 401
+56 390 394
+105 360 375
+120 350 370
+140 336 364
+168 315 357
+210 280 350
+240 252 348
+3 4 5
+9 40 41
+15 36 39
+7500 10000 12500
+1200 14375 14425
+1875 14000 14125
+5000 12000 13000
+6000 11250 12750
+7500 10000 12500
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

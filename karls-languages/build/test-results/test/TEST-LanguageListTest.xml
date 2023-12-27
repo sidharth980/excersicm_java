@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LanguageListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-20T03:59:02" hostname="LEGION5" time="0.042">
+  <properties/>
+  <testcase name="The isExciting method returns false when the list contains neither Java nor Kotlin" classname="LanguageListTest" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
